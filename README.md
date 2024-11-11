@@ -179,10 +179,4 @@
   </tr>
 </table>
 </p>
-<p align="center" style="padding-top:20px;">
-  <a href="mailto:sh1n3sh1n3.03@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/Sh1n3Sh1n3" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
-</p>
-
 <a href="#"><img align="left" alt="Finish" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Finish.svg" /></a>
